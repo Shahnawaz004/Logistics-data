@@ -1,2 +1,3 @@
 # Logistics-data
 I created a logistics data project by using visual tools such as Power BI.
+The Logistics Data Cleaning and Transformation project involves processing raw logistics data to ensure accuracy and consistency. This phase includes removing duplicates, handling missing values, standardizing formats, and transforming the data into usable formats for analysis. Once cleaned, the data is used for statistical analysis to identify key metrics such as delivery times, transportation costs, and route efficiency. The insights from this analysis are then visualized using charts, graphs, and dashboards, providing a clear understanding of logistics performance and areas for optimization, helping improve decision-making and operational efficiency.
